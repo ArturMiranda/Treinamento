@@ -8,5 +8,13 @@ public class gitTriggerHandller {
 		System.debug('Outra linha editada do git online 1');
 		System.debug('Outra linha editada do git online 2');
     }
+	
+	
+	public static novoMethod(){
+	
+		System.debug('Outra linha editada do git online 1');
+		System.debug('Outra linha editada do git online 2');
+	
+	}
  
 }
